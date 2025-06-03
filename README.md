@@ -286,6 +286,18 @@ plt.show()
 
 - The database skills (colored orange), such as Oracle and SQL Server, are associated with some of the highest salaries among data analyst tools. This indicates a significant demand and valuation for data managment and manipulation expertise in the industry.
 
+#### Visualizations:
+![most_optimal_skill](https://github.com/user-attachments/assets/3494151a-ce9d-44e5-914d-7d442f2a39e6)
+![salary_distribution](https://github.com/user-attachments/assets/deeb1ff0-01cd-4d9b-a651-0243ab570054)
+![skill_trend_DA](https://github.com/user-attachments/assets/f27a281a-0d4e-4fc2-a3b6-3deabb301df1)
+![top_and_most_in-demand_skills_for_data_analysts](https://github.com/user-attachments/assets/b9da8f7e-5001-4658-81b8-3f97303e705f)
+![top_skills_for_data_roles](https://github.com/user-attachments/assets/75c0523d-2397-4061-bdd5-4f02216ac23b)
+
+
+
+
+
+
 # What I Learnt from the Project
 This project offered valuable lessons, both in understanding the data analyst job landscape and in strengthening my Python skills—particularly in working with data and creating insightful visuals. Here are some specific takeaways:
 
